@@ -1,6 +1,6 @@
 # Face-Mask-Detection
 
-In this project, Using libraries from keras API and tensorflow, the training of image datasets, which were retrieved by using Keras ImageDataGenerator API, building of Convulational neural network (CNN) was accomplished.
+In this project, Using libraries from Keras API and TensorFlow, the training of image datasets, which were retrieved by using Keras ImageDataGenerator API, the building of Convolutional neural network (CNN) was accomplished.
 
 This project was done on locally installed tensorflow with gpu support.
 
