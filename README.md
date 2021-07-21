@@ -22,7 +22,12 @@ This project was done on locally installed tensorflow with gpu support.
 
 
 
+### Operation:
+-->This code requires runs only on local jupyter notebook and tensorflow with gpu support(CUDA,cuDNN's)
 
+-->Modify the path for xml file and voila!
+
+-->Sometimes tweaking scale factor of detectMultiScale() will help If the code doesn't work or run smooth. (imp: scalefactor>1 eg:1.05, 1.15, 1.2)
 
 
 
